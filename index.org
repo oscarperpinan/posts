@@ -7,15 +7,9 @@
 #+LINK_UP:
 #+LINK_HOME:
 
-#+BEGIN_CENTER
-[[https://github.com/oscarperpinan/posts][View the Project on GitHub]]
+This web provides results of R code from some posts of my blog
+[[http://procomun.wordpress.com]]. [[https://github.com/oscarperpinan/posts][View the Project on GitHub]].
 
-This project is maintained by [[http://procomun.wordpress.com/][Oscar Perpiñán]].
-#+END_CENTER
-
-This web provides code from some posts of my blog
-[[http://procomun.wordpress.com]].
-
-[[tooltips/tooltipLattice.html][Tooltips with lattice]]
+- [[http://oscarperpinan.github.com/posts/tooltips/tooltipLattice.html][Tooltips with lattice]]
 
 
