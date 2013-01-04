@@ -8,7 +8,7 @@
 #+LINK_HOME:
 
 #+BEGIN_CENTER
-[[https://github.com/oscarperpinan/spacetime-vis][View the Project on GitHub]]
+[[https://github.com/oscarperpinan/posts][View the Project on GitHub]]
 
 This project is maintained by [[http://procomun.wordpress.com/][Oscar Perpiñán]].
 #+END_CENTER
