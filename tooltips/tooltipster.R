@@ -41,7 +41,7 @@ grid.script(file='http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.j
 ## tooltipster (downloaded from http://calebjacob.com/tooltipster/)
 grid.script(file='js/jquery.tooltipster.min.js')
 
-grid.script(file='js/myTooltipLattice.js')
+grid.script(file='js/myTooltipster.js')
 
 gridToSVG('tooltipLattice.svg')
 
